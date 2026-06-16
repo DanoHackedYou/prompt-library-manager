@@ -2,6 +2,10 @@
 
 A full-stack app to save, search and organize reusable AI prompts. It is designed as a professional portfolio project focused on productivity, AI workflows and clean full-stack architecture.
 
+## Screenshot
+
+<img width="2836" height="1620" alt="image" src="https://github.com/user-attachments/assets/d4175745-0c6d-4839-acd3-8d898d033a56" />
+
 ## Features
 
 - Create, edit and delete prompts.
